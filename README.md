@@ -1,5 +1,3 @@
-# Unciv-mod-example
+# No Unhappiness Mod    
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Sets all population-based unhappiness to 0.  Be free liberty enjoyer, go forth and cover the world.
